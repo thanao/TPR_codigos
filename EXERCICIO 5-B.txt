@@ -1,0 +1,10 @@
+5.Explique porque está errado fazer if (num=10) ... O que irá acontecer? 
+Proeiro vamos compreender o que está descrito, if (num=10), ou seja, se num recebe o valor de 10, ou Se num é igual a 10?
+•If é um comando de decisão que equivale ao SE, que referencia uma pergunta.
+•Num é uma variável.
+•O operador de = atribui um valor a alguma variável ou constante.
+•O 10 é um valor numérico inteiro.
+Assim está descrito como se lê, que Se a variável chamada de num irá receber o valor de 10.
+Porém claramente observasse que como Se é uma decisão e não uma atribuição o =, (recebe), não cabe nesta sentença. Assim o operador de comparação é o == e não =.
+If (num ==10)
+Se a variável num é igual a 10 e não recebe 10.
